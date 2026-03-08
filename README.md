@@ -1,8 +1,6 @@
 > "Here's what you do, *you fold it in.*"
 > — Moira Rose
 
-Whimsical project to practice building CLIs via Click and familiarize with Jinja2 templating.
-
 Fetches the "Astronomy Pic of the Day" from the NASA public API, renders an HTML template using the response data, and displays it in the default browser.
 
 ## Installation
